@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: WE ARE BACK TO BRING IDEAS TO LIFE
-datePublished: '2016-03-09T16:58:09.152Z'
-dateModified: '2016-03-09T16:56:57.603Z'
+datePublished: '2016-03-09T17:02:08.915Z'
+dateModified: '2016-03-09T16:58:16.392Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-09-we-are-back-to-bring-ideas-to-life.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-we-are-back-to-bring-ideas-to-life.md
-published: true
 url: we-are-back-to-bring-ideas-to-life/index.html
 _type: Article
 
