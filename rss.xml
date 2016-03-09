@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[bluemode]]></title>
         <description><![CDATA[bluemode]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bluemode/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 16:58:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 17:02:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bluemode/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42299766-0f3a-468d-b6f7-c4f8f51e4c05.jpg">]]></description>
-            <link>undefinedwe-are-back-to-bring-ideas-to-life/index.html</link>
+            <link>https://thegrid.ai/bluemode/we-are-back-to-bring-ideas-to-life/index.html</link>
             <guid isPermaLink="false">7306ae9e-fc2e-446a-80b6-567c82738026</guid>
-            <pubDate>Wed, 09 Mar 2016 16:58:09 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 17:02:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
